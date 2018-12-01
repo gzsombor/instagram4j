@@ -149,6 +149,15 @@
 						<exclude>mvnw.cmd</exclude>
 						<exclude>mvnw</exclude>
 						<exclude>LICENSE</exclude>
+						<exclude>**/FeedMediaItem.java</exclude>
+						<exclude>**/FeedItemLocation.java</exclude>
+						<exclude>**/ImageMeta.java</exclude>
+						<exclude>**/ImageVersions.java</exclude>
+						<exclude>**/SavedFeedResult.java</exclude>
+						<exclude>**/InstagramSavedFeedRequest.java</exclude>
+						<exclude>**/InstagramDownloadRequest.java</exclude>
+						<exclude>**/InstagramUnsaveMediaRequest.java</exclude>
+						<exclude>**/InstagramSaveMediaRequest.java</exclude>
 					</excludes>
 				</configuration>
 				<executions>
