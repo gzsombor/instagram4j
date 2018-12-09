@@ -47,7 +47,7 @@ public class InstagramFeedItem {
     public List<Object> video_versions;
     public ImageVersions image_versions2;
     public List<InstagramFeedUserTag> usertags;
-    public Map<String, Object> location;
+    public FeedItemLocation location;
     public float lng;
     public float lat;
     public int original_width;
