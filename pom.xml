@@ -19,7 +19,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.gzsombor</groupId>
 	<artifactId>instagram4j</artifactId>
-	<version>1.11-SNAPSHOT</version>
+	<version>1.11.1</version>
 	<packaging>jar</packaging>
 	<name>instagram4j</name>
 	<description>instagram4j</description>
