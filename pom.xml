@@ -50,7 +50,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-		<http.core.version>4.4.13</http.core.version>
+		<http.core.version>4.4.14</http.core.version>
 		<http.client.version>4.5.10</http.client.version>
 		<java.version>1.8</java.version>
 		<junit.version>4.13</junit.version>
